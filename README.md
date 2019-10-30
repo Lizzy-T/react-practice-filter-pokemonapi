@@ -1,3 +1,7 @@
+## Description
+
+A quick build and burn to understand some of the basics of react. This was build during the Flat-iron program, Mod 4 - week 1. Uses an active filter and a show button.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
